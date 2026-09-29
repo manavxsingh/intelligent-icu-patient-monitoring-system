@@ -1,0 +1,5 @@
+
+
+The **Intelligent ICU Patient Monitoring System** is designed to continuously monitor the vital signs of critically ill patients. It collects parameters such as heart rate, blood pressure, temperature, SpO₂,
+and respiratory rate using sensors. The system processes and displays this information in real time and provides alerts when abnormal conditions are detected. Overall, it helps healthcare professionals monitor
+patients efficiently, respond quickly to critical changes, and improve patient safety.
